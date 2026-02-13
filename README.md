@@ -1,5 +1,5 @@
-## To view without downloading click ➜
-
+## To view without downloading click ➜  
+<br><br>
 
 # Simple CTF — TryHackMe Walkthrough
 
