@@ -1,7 +1,7 @@
 ## To view without downloading click ➜
 
-# Simple CTF — TryHackMe Walkthrough
 
+# Simple CTF — TryHackMe Walkthrough
 <br><br>
 This repository documents the full exploitation workflow for the Simple CTF machine on TryHackMe.
 The objective is to enumerate exposed services, identify a vulnerable web application, exploit an SQL Injection flaw, gain initial access via SSH, and perform privilege escalation to obtain root access.  
