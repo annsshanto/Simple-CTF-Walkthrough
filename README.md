@@ -1,4 +1,4 @@
-## To view without downloading click ➜  
+## To view without downloading click ➜ https://annsshanto.github.io/Simple-CTF-Walkthrough/  
 <br><br>
 
 # Simple CTF — TryHackMe Walkthrough
